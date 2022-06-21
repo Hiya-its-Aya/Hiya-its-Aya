@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hiya-its-Aya (Aya Moosa), BS in Mathematics. 
-- 👀 I’m interested in video games like League, Halo, Mass Effect and Valorant.
+- 👀 I’m interested in becoming a software engineer. In my downtime, I play video games like League, Halo, Mass Effect and Valorant.
 - 🌱 I’m currently learning Web Devbelpoment with the Odin Project (FullStack JS track)
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: ayamoosa98@gmail.com

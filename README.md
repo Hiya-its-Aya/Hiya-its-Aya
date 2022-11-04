@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hiya-its-Aya (Aya Moosa), BS in Mathematics. 
 - 👀 I’m interested in becoming a software engineer. In my downtime, I play video games like League, Halo, Mass Effect and Valorant.
-- 🌱 I’m currently learning Web Development with the Odin Project (FullStack JS track)
+- 🌱 I’m currently learning Web Development with the Odin Project (FullStack JS track) and will be starting CodeSmith. 
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: ayamoosa98@gmail.com
 

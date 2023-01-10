@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hiya-its-Aya (Aya Moosa), BS in Mathematics and software engineer.
 - 👀  In my downtime, I play video games like League, Halo, Mass Effect and Valorant.
-- 🌱 I’m currently learning in Codesmith. 
+- 🌱 I’m currently learning software development at Codesmith. 
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: ayamoosa98@gmail.com
 

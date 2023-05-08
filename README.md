@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hiya-its-Aya (Aya Moosa), BS in Mathematics and software engineer.
 - 👀  In my downtime, I play video games, play guitar and ukelele, and cook!
-- 🌱 Currently a software engineer at [SeeQR](https://github.com/open-source-labs/SeeQR) (open source). 
-- 💞️ I’m open to work on mid-level full-stack software engineering roles!
+- 🌱 Currently a Full Stack Developer at [HumanQ](https://humanq.com/)
 -  📫 How to reach me: ayamoosa1@gmail.com
 
 <!---

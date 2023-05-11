@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Hiya-its-Aya (Aya Moosa), BS in Mathematics and software engineer.
+- 👋 Hi, I’m @Hiya-its-Aya (Aya Moosa), a Full Stack Developer at [HumanQ](https://humanq.com/).
 - 👀  In my downtime, I play video games, play guitar and ukelele, and cook!
-- 🌱 Currently a Full Stack Developer at [HumanQ](https://humanq.com/)
 -  📫 How to reach me: ayamoosa1@gmail.com
 
 <!---

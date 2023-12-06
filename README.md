@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hiya-its-Aya (Aya Moosa), a Full Stack Developer at [HumanQ](https://humanq.com/).
+- 👋 Hi, I’m @Hiya-its-Aya (Aya Moosa), a Full Stack Developer.
 - 👀  In my downtime, I play video games, play guitar and ukelele, and cook!
 -  📫 How to reach me: ayamoosa1@gmail.com
 

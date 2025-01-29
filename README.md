@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Hiya-its-Aya (Aya Moosa), a Full Stack Developer.
-- 👀  In my downtime, I play video games, play guitar and ukelele, and cook!
+- 👋 Hi, I’m @Hiya-its-Aya (Aya Moosa), a Software Engineer.
+- 👀  In my downtime, I play video games, code, and cook!
 -  📫 How to reach me: ayamoosa1@gmail.com
 
 <!---
